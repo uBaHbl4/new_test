@@ -15,4 +15,4 @@
 - ***git log*** - Просмотр истории коммитов
 git add -
 git 1status
-git branch name
+git branch name -
