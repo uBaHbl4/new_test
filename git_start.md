@@ -16,3 +16,5 @@
 git add -
 git status
 git - контроль версий
+git 1status
+git branch name -
